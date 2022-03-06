@@ -1,0 +1,17 @@
+.myBtn {
+  padding: 15px;
+  background-color: #61dafb;
+  border: none;
+  border-radius: 5px;
+  text-transform: capitalize;
+  transition: background 0.1s linear;
+  cursor: pointer;
+}
+
+.myBtn:hover {
+  background-color: #fff;
+}
+
+.myBtn:nth-child(2) {
+  margin-left: 15px;
+}
